@@ -13,6 +13,22 @@ body {
     margin: 0 auto;
 }
 
+/* Icon Styles */
+header nav ul li a i,
+#hero h2 i,
+#services ul li i,
+#contact p i {
+    margin-right: 0.5rem;
+    color: #0078D7;
+}
+
+header nav ul li a i:hover,
+#hero h2 i:hover,
+#services ul li i:hover,
+#contact p i:hover {
+    color: #005a9e;
+}
+
 /* Header Styles */
 header {
     background: #0078D7;
